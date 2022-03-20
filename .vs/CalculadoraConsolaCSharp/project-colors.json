@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca72a75f-e1eb-4187-9b3a-b49bd711263c": {
+      "ProjectGuid": "ca72a75f-e1eb-4187-9b3a-b49bd711263c",
+      "DisplayName": "CalculadoraConsolaCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
