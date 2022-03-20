@@ -10,7 +10,8 @@ namespace CalculadoraConsolaCSharp
     {
         public int[] ID = { 17555325, 8727329, 5602696, };
         public int[] Password = { 2287, 0954, 0760 };
-        public int[] Saldo = { 20001, 10001, 5001 };
+        public int[] SaldoSoles = { 20001, 10001, 5001 };
+        public int[] SaldoDolares = { 2000, 600, 140 };
 
 
         public int ValidaCedula (int cedula)
